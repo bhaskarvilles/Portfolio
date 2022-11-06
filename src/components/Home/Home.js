@@ -20,6 +20,9 @@ function Home() {
                 </span>
               </h1>
 
+              <div class="cf-turnstile" data-sitekey="0x4AAAAAAABJSoTIgPb2iGJs" data-callback="javascriptCallback"></div>
+              <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
               <h1 className="heading-name">
                 I'M
                 <strong className="main-name"> BHASKAR RAM</strong>
